@@ -1,0 +1,10 @@
+{
+  "name": "Rebuilt_Sandbox",
+  "description": "Live AI Chat with screen sharing capabilities",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
